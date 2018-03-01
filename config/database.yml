@@ -1,0 +1,9 @@
+development:
+  adapter: mysql2
+  username: root
+  database: line_chat_development
+  pool: 5
+  timeout: 5000
+  charset: utf8mb4
+  encoding: utf8mb4
+  collation: utf8mb4_unicode_ci
